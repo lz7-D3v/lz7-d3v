@@ -1,4 +1,4 @@
-<h1 align="center">💀 Lz7.D3v 💀</h1>
+<h1 align="center"> Lz7.D3v </h1>
 <p align="center"><i>“Black Rat in the wire...”</i></p>
 <p align="center">🐚 Exploit coder | Bug exploiter | Clandestine ops</p>
 
