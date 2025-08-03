@@ -4,6 +4,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://i.imgur.com/SeuLinkAqui.png" alt="Lz7.D3v Banner" width="400" />
+</div>
+
+---
+
 ### 🧰 Languages
 
 <img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -17,15 +23,6 @@
 
 ---
 
-### 🧪 About Me
-
-- 🖤 Operating off-grid, off-protocol.  
-- 💉 Injecting chaos where it hurts.  
-- 📍 Based at 127.0.0.1  
-- 🎯 Focus: Web Exploits, XSS, SQLi, and bypasses.
-
----
-
 ### 📊 GitHub Stats
 
 ![Lz7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lz7-d3v&show_icons=true&theme=tokyonight)
@@ -35,7 +32,7 @@
 
 ### 📡 Contato
 
-- Telegram: [@lz7.d3v](https://t.me/lz7.d3v)
+- Telegram: [@lz7.d3v](https://t.me/lz7.d3v)  
 - Discord: lz7.d3v
 
 ---
