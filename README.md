@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://imgur.com/a/dSsqdWH" alt="Lz7.D3v Banner" width="400" />
+  <img src="https://imgur.com/gallery/jjjjjjnhhb-dSsqdWH" alt="Lz7.D3v Banner" width="400" />
 </div>
 
 ---
