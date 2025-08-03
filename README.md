@@ -35,9 +35,8 @@
 
 ### 📡 Contato
 
-- Telegram: [@lz7.d3v](https://t.me/lz7.d3v)  
-- E-mail: lz7@protonmail.com  
-- Darknet: ssh lz7@onion.rat
+- Telegram: [@lz7.d3v](https://t.me/lz7.d3v)
+- Discord: lz7.d3v
 
 ---
 
