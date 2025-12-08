@@ -33,8 +33,8 @@
 ### 📡 Contato
 
 - Telegram: [@lz7.d3v](https://t.me/lz7.d3v)  
-- Discord: lz7.d3v
+- Discord: lz7.d3v.
 
 ---
 
-> *"Hacked by Lz7.D3v - Leave no logs, leave no doubt."*
+> *"Hacked by Lz7.D3v"*
