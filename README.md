@@ -1,4 +1,4 @@
-<h1 align="center"> Lz7.D3v </h1>
+<h1 align="center"> Lzxz71 </h1>
 <p align="center"><i>“Black Rat in the wire...”</i></p>
 <p align="center">🐚 Exploit coder | Bug exploiter | Clandestine ops</p>
 
@@ -32,9 +32,9 @@
 
 ### 📡 Contato
 
-- Telegram: [@lz7.d3v](https://t.me/lz7.d3v)  
-- Discord: lz7.d3v.
+- Telegram: [@lzxz71](https://t.me/lzxz71)  
+- Discord: lzxz71
 
 ---
 
-> *"Hacked by Lz7.D3v"*
+> *"Hacked by Lzxz71"*
