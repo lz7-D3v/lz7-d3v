@@ -23,13 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Lz7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lz7-d3v&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lz7-d3v&layout=compact&theme=tokyonight)
-
----
-
 ### 📡 Contato
 
 - Telegram: [@lzxz71](https://t.me/lzxz71)  
